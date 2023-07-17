@@ -1,4 +1,4 @@
-# Reversed Sequence
+ # Reversed Sequence
 ## 8 kyu
 
 ### DESCRIPTION
